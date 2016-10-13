@@ -1,0 +1,117 @@
+[
+  {
+    "name": "Cowboy",
+    "cost": 100,
+    "category": "Western",
+    "date": 1475796606921,
+    "count": 2,
+    "props": [
+      {
+        "name": "Clown hair",
+        "id": 1
+      }
+    ],
+    "clothingiteams": [
+      {
+        "name": "suit",
+        "color": "blue",
+        "size": "medium",
+        "category": "Comic",
+        "id": 1
+      }
+    ],
+    "id": 1
+  },
+  {
+    "name": "Ironman",
+    "cost": 200,
+    "category": "Comic",
+    "date": 1182036644196,
+    "count": 5,
+    "props": [
+      {
+        "name": "Fireman jacket",
+        "id": 2
+      }
+    ],
+    "clothingiteams": [
+      {
+        "name": "hair fro",
+        "color": "rainbrow",
+        "size": "small",
+        "category": "Circus",
+        "id": 2
+      }
+    ],
+    "id": 2
+  },
+  {
+    "name": "Fireman",
+    "cost": 300,
+    "category": "Workforce",
+    "date": 1308180696092,
+    "count": 5,
+    "props": [
+      {
+        "name": "Cowboy Hat",
+        "id": 3
+      }
+    ],
+    "clothingiteams": [
+      {
+        "name": "Helmet",
+        "color": "white",
+        "size": "large",
+        "category": "Space",
+        "id": 3
+      }
+    ],
+    "id": 3
+  },
+  {
+    "name": "Alien",
+    "cost": 250,
+    "category": "Space",
+    "date": 1947627141842,
+    "count": 3,
+    "props": [
+      {
+        "name": "Astronaunt Helmet",
+        "id": 4
+      }
+    ],
+    "clothingiteams": [
+      {
+        "name": "CowboyHat",
+        "color": "beige",
+        "size": "medium\n",
+        "category": "Western",
+        "id": 4
+      }
+    ],
+    "id": 4
+  },
+  {
+    "name": "Clown",
+    "cost": 350,
+    "category": "Circus",
+    "date": 1481589240221,
+    "count": 4,
+    "props": [
+      {
+        "name": "Ironman Suit",
+        "id": 5
+      }
+    ],
+    "clothingiteams": [
+      {
+        "name": "fire jacket",
+        "color": "black n yellow",
+        "size": "large",
+        "category": "Workforce",
+        "id": 5
+      }
+    ],
+    "id": 5
+  }
+]
